@@ -40,7 +40,7 @@ This file takes several days to run because of the twitter API.
 This notebook uses [**VADER**](https://github.com/cjhutto/vaderSentiment#installation) to determine and score positive, negative and neutral tweet sentiment.
 
 #### `TwitterDataModeling.ipynb`
-*lines of code: 765 *  
+*lines of code: 765*  
 
 Builds the CNNs, train it and test it. 
 
